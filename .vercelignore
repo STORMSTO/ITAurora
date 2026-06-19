@@ -1,0 +1,5 @@
+# Ignore local scripts
+*.py
+.git
+.github
+*.mp3.tmp
